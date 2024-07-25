@@ -23,3 +23,8 @@ dependencies:
   - r-tidyverse
   - r-stringr
   - scipy
+  - kernlab
+  - randomForest
+  - ellipse
+  - ggplot2
+  - caret
